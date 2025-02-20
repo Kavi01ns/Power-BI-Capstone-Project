@@ -1,1 +1,1 @@
-# Power-BI-Module-Project
+# Power-BI-Capstone-Project
